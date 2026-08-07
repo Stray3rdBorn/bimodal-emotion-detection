@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model weights / large files
+*.h5
+*.pkl
+*.pt
+*.ckpt
+
+# Datasets (too large for git)
+datasets/
+data/
+*.mp4
+*.wav
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

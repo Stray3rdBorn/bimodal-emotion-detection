@@ -1,0 +1,9 @@
+tensorflow>=2.10
+opencv-python
+librosa
+numpy
+scikit-learn
+pyaudio
+matplotlib
+seaborn
+jupyter
