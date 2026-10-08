@@ -56,7 +56,3 @@ jupyter notebook emotion_detection.ipynb
 ## Background
 
 This project began as an undergraduate thesis, *"Towards Real-Time Emotion Analytics: Integrating Facial Landmarks and Speech Prosody,"* exploring how combining audio and visual emotion cues improves on single-modality systems, particularly in noisy or visually obstructed conditions where one modality alone tends to fail.
-
-## License
-
-MIT
